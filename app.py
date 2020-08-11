@@ -13,7 +13,7 @@ cv=pickle.load(open('transform.pkl','rb'))
 app = Flask(__name__)
 
 @app.route('/')
-def mian():
+def main():
 	return render_template('home.html')
 
 @app.route('/predict',methods=['POST'])
