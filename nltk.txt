@@ -1,1 +1,5 @@
-all
+pos_tag
+stopwords
+wordnet
+WordNetLemmatizer
+word_tokenize
