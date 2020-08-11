@@ -1,5 +1,4 @@
-pos_tag
-stopwords
-wordnet
-WordNetLemmatizer
-word_tokenize
+nltk.test.unit.test_pos_tag
+corpus 
+stem
+tokenize
