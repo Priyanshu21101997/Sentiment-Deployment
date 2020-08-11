@@ -1,4 +1,4 @@
-nltk.test.unit.test_pos_tag
+test_pos_tag
 corpus 
 stem
 tokenize
