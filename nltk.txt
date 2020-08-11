@@ -1,4 +1,0 @@
-test_pos_tag
-corpus 
-stem
-tokenize
