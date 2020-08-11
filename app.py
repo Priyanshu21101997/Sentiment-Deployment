@@ -12,7 +12,7 @@ clf = pickle.load(open(filename, 'rb'))
 cv=pickle.load(open('transform.pkl','rb'))
 app = Flask(__name__)
 
-@app.route('https://twittersentimentanalyse.herokuapp.com/')
+@app.route('/')
 def home():
 	return render_template('home.html')
 
